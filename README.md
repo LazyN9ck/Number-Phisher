@@ -1,1 +1,33 @@
-# Number-Phisher
+# ☠️ NUMBER PHISHER TOOL ☠️
+
+**A POWERFUL TOOL TO BAIT AND CATCH PHONE NUMBERS EASILY. BUILT FOR EDUCATIONAL PURPOSES AND ETHICAL HACKING ONLY.**
+
+---
+
+## ⚙️ FEATURES
+
+- PHISH PHONE NUMBERS WITH CUSTOM BAIT
+- AUTO-GENERATED PHISHING PAGE
+- LIVE VICTIM INFO LOGGING
+- EASY TO USE & FAST SETUP
+- HOSTS LOCALLY & OVER INTERNET
+
+---
+
+## 🛠️ REQUIREMENTS
+
+- TERMUX / LINUX ENVIRONMENT
+- PHP
+- NGROK / LOCALHOST
+- STABLE INTERNET CONNECTION
+
+---
+
+## ⚡ INSTALLATION
+
+```bash
+pkg update && pkg upgrade
+pkg install git php curl -y
+git clone https://github.com/YourUsername/number-phisher
+cd number-phisher
+bash start.sh
